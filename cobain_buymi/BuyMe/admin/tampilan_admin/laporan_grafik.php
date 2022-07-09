@@ -83,7 +83,7 @@ include '../../koneksi.php';
                   <th>Nomer</th>
                   <th>ID pembelian barang</th>
                   <th>Nama Barang</th>
-                  <th>Pendapatan Penjualan</th>
+                  <th>Penjualan Terbanyak</th>
                 </tr>
               </thead>
               <tbody>
